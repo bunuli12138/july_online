@@ -1,0 +1,2 @@
+handwriting_recognition/Data/test_july.csv filter=lfs diff=lfs merge=lfs -text
+handwriting_recognition/Data/train_july.csv filter=lfs diff=lfs merge=lfs -text
