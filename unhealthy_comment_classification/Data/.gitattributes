@@ -1,0 +1,4 @@
+CW_test_06082300.csv filter=lfs diff=lfs merge=lfs -text
+CW_train_06082300.csv filter=lfs diff=lfs merge=lfs -text
+test_july.csv filter=lfs diff=lfs merge=lfs -text
+train_july.csv filter=lfs diff=lfs merge=lfs -text

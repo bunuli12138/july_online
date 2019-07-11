@@ -1,2 +1,4 @@
 handwriting_recognition/Data/test_july.csv filter=lfs diff=lfs merge=lfs -text
 handwriting_recognition/Data/train_july.csv filter=lfs diff=lfs merge=lfs -text
+unhealthy_comment_classification/Model/DRM50_06081800.model_test.bin filter=lfs diff=lfs merge=lfs -text
+unhealthy_comment_classification/Model/DRM50_06081800.model_train.bin filter=lfs diff=lfs merge=lfs -text
